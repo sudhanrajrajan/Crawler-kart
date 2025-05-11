@@ -1,6 +1,6 @@
 # Flipkart Product Crawler
 
-This script crawls Flipkart product data from a sitemap XML, extracts key product information (title, SKU, description, image), and saves it to a JSON file 
+This script crawls Flipkart product data, extracts key product information (title, SKU, description, image), and saves it to a JSON file 
 (`Products.json`). It also downloads and resizes product images.
 
 ## Features
